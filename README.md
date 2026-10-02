@@ -94,7 +94,7 @@ Exploration of cloud forensic methods and workflows for collecting, examining, a
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-181717?style=flat-square&logo=github)](https://github.com/USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-sreekavin6325-181717?style=flat-square&logo=github)](https://github.com/sreekavin6325)
 
 <!-- Add LinkedIn, email, portfolio, or other professional links here when ready. -->
 
