@@ -1,16 +1,109 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sreekavin6325/sreekavin6325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm A. R. Sreekavin 👋
 
-Here are some ideas to get you started:
+### AI/ML Engineer · Python Developer · Generative AI Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical AI systems, intelligent automation, and developer-focused solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github)](https://github.com/USERNAME)
+
+</div>
+
+---
+
+## About Me
+
+I'm **A. R. Sreekavin (Kavin)**, an AI/ML engineer interested in turning modern AI research and tools into useful, real-world applications.
+
+- 🧠 Exploring **machine learning, generative AI, AI agents, and intelligent automation**
+- 🛠️ Building with **Python, agentic frameworks, APIs, databases, and cloud technologies**
+- 🏥 Gaining practical exposure to **HMIS workflows and hospital machine interfacing**
+- 🔍 Interested in **fraud prevention, conversational AI, and digital forensics**
+- 📚 Continuously learning through hands-on projects and experimentation
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**AI, ML & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111111?style=flat-square)
+
+**Application, Data & Cloud**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## Featured Projects
+
+### 🎙️ Speaker Identification / Recognition System
+
+An AI/ML project focused on recognizing or identifying speakers from voice data through audio processing and learned voice characteristics.
+
+### 🛡️ Fraud Investigation & Prevention Framework Using GenAI
+
+A generative-AI-oriented framework concept for supporting fraud investigation, identifying suspicious patterns, and improving prevention workflows.
+
+### 🏥 HMIS & Hospital Chatbot R&D
+
+Research and experimentation around AI or WhatsApp chatbots for hospital environments, with an emphasis on useful HMIS-connected conversational workflows.
+
+### 🔎 Cloud Forensic Investigation
+
+Exploration of cloud forensic methods and workflows for collecting, examining, and interpreting digital evidence in cloud environments.
+
+> Project repositories and detailed case studies can be linked here as they are published.
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Kavin's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Kavin's most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=transparent&hide_border=true" alt="Kavin's GitHub contribution streak" />
+
+</div>
+
+## Current Focus
+
+- Building reliable **agentic AI workflows** with LangChain, LangGraph, the OpenAI Agents SDK, and MCP
+- Developing **AI-powered APIs and applications** with FastAPI, Flutter, and PostgreSQL
+- Exploring practical applications of AI in **healthcare, fraud prevention, and digital forensics**
+- Deepening knowledge of **cloud-based AI development on GCP**
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-181717?style=flat-square&logo=github)](https://github.com/USERNAME)
+
+<!-- Add LinkedIn, email, portfolio, or other professional links here when ready. -->
+
+---
+
+<div align="center">
+
+<sub>Learning continuously. Building thoughtfully.</sub>
+
+</div>
+
+<!-- Before publishing: replace every occurrence of USERNAME with your GitHub username. -->
