@@ -2,7 +2,7 @@
 
 # Hi, I'm A. R. Sreekavin 👋
 
-### AI/ML Engineer · Python Developer · Generative AI Explorer
+### AI/ML Engineer · Full-Stack Developer · Music Production
 
 I build practical AI systems, intelligent automation, and developer-focused solutions.
 
