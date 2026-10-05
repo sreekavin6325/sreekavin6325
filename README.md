@@ -2,7 +2,7 @@
 
 # Hi, I'm A. R. Sreekavin 👋
 
-### AI/ML Engineer · Full-Stack Developer · Music Production
+### AI/ML Engineer · Full-Stack Developer · Music Producer
 
 I build practical AI systems, intelligent automation, and developer-focused solutions.
 
