@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer · Full-Stack Developer · Music Producer
 
-I build practical AI systems, intelligent automation, and developer-focused solutions.
+I build practical Websites, AI systems, intelligent automation, and developer-focused solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sreekavin6325-181717?style=for-the-badge&logo=github)](https://github.com/sreekavin6325)
 
