@@ -98,6 +98,13 @@ Exploration of cloud forensic methods and workflows for collecting, examining, a
 
 <img src="https://streak-stats.demolab.com?user=sreekavin6325&theme=transparent&hide_border=true" alt="Kavin's GitHub contribution streak" />
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sreekavin6325&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Kavin's GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekavin6325&layout=compact&hide_border=true&theme=transparent" alt="Kavin's most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=sreekavin6325&theme=transparent&hide_border=true" alt="Kavin's GitHub contribution streak" />
+
+
 </div>
 
 ## Current Focus
